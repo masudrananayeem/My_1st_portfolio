@@ -14,7 +14,7 @@ h1{
     padding-left: 2%;
 }
 .half-width img{
-    width: 100%;
+    width: 85%;
 }
 .top-banner{
    background-image:url(images/top-banner.png) ;
@@ -22,7 +22,7 @@ h1{
 }
 section{
     height: 500px;
-    padding-bottom: 30px;
+    padding-bottom: 50px;
     
 }
 .link{
@@ -44,19 +44,19 @@ p{
 .single-experience{
     box-shadow: 10px 10px 40px gray ;
     border-radius: 5px;
-    height: 50%;
+    height: 60%;
     background-color: white;
 }
 .experience{
     background-image: url(images/exp-bg.png);
     background-repeat: no-repeat;
     background-position: left;
+    
 }
 #stack{
     border-left: 7px solid;
     border-image: linear-gradient(180deg, green, skyblue) ; 
     border-image-slice: 1;
-
    
 }
 #baby{
